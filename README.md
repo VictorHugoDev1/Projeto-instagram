@@ -1,2 +1,2 @@
 # Projeto-instagram
- Projeti feito para melhoria de conhecimento e prática
+ Projeto feito para melhoria de conhecimento e prática
